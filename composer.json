@@ -1,0 +1,27 @@
+{
+  "name": "ruanglabs/lazop",
+  "description": "Advanced Lazada API PHP Class",
+  "license": "MIT",
+  "type": "php-class",
+  "keywords": [
+    "lazada",
+    "api"
+  ],
+  "authors": [
+    {
+      "name": "Ruang Labs",
+      "email": "ruanglab5@gmail.com",
+      "homepage": "http://www.ruanglabs.com",
+      "role": "PHP Programmer"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0"
+
+  },
+  "autoload": {
+    "files": [
+      "lazop/LazopClient.php"
+    ]
+  }
+}
